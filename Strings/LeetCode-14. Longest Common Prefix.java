@@ -1,3 +1,5 @@
+package Strings;
+import java.util.Arrays;
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         //intution used is what is prefix and comparing each string with the prefix
