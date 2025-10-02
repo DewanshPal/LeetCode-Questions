@@ -47,6 +47,7 @@ public class Frankenstein {
 
         String target = sc.nextLine().trim();
         System.out.println(minOrbs(target));
+        sc.close();
     }
 }
 
