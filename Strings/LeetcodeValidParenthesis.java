@@ -1,4 +1,3 @@
-package Strings;
 
 class Solution {
     public boolean isValid(String s) {

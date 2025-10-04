@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class LeetCode1871 {
     public boolean canReach(String s, int minJump, int maxJump) {

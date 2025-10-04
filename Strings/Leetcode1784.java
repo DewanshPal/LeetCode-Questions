@@ -1,4 +1,4 @@
-package Strings;
+
 // import java.util.Arrays;
 class LeetCode1784 {
     public boolean checkOnesSegment(String s) {
